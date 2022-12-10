@@ -17,7 +17,7 @@
     "child-process-promise": "^2.2.1",
     "child_process": "^1.0.2",
     "ejs": "^2.7.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "influx": "^5.0.7",
     "locks": "^0.2.2",
